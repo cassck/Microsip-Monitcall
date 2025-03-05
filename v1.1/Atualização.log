@@ -1,0 +1,3 @@
+V2.1 - Agora não é mais necessário realizar a instalação do python ou de suas bibliotecas.
+Foi retirada a limitação de execução do script, agora não é mais necessário realizar quaisquer alterações dentro do script, ele busca o diretório de todos os usuários.
+Foi feita refatoração do código para melhor leitura,prevenção de erros e agilidade de execução.
